@@ -1,15 +1,15 @@
 eFranc integration/staging tree
 ================================
 
-http://www.efranc.org
+http://efranc.eu
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 eFranc Developers
+Copyright (c) 2018 eFranc Developers
 
 What is eFranc?
 ----------------
 
-eFranc is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
+eFranc is a different version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 30 seconds block targets
  - subsidy halves all 4200000 blocks (~4 years)
  - ~420 million total coins
@@ -17,7 +17,7 @@ eFranc is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 50 coins per block
 
 For more information, as well as an immediately useable, binary version of
-the eFranc client sofware, see http://www.efranc.org.
+the eFranc client sofware, see http://efranc.eu.
 
 License
 -------
